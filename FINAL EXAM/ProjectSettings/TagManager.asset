@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Player_1
+  - Point_1
+  - Enemy_1
   layers:
   - Default
   - TransparentFX
